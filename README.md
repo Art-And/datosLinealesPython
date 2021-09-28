@@ -1,4 +1,4 @@
-## Aplicacion de producctividad 📝
+## Datos lineales con python 📝
 
 _Simplemente se practicaron e implementaron estructuras de datos o stacks con nodos, list,Arrays, etc_
 
